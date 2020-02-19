@@ -14,4 +14,4 @@ expo start
 * [React native Image gallery](https://github.com/archriss/react-native-image-gallery)
 
 ## Demo
-<img src="https://github.com/hamzasajid1995/google-maps-with-carousel-react-native/blob/master/demo/demo.gif?raw=true"  />
+<img src="https://github.com/hamzasajid1995/React-native-image-gallery/blob/master/Demo/demo.gif?raw=true"  />
